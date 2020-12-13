@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4988" started-at="2020-12-13T13:53:48 IST" finished-at="2020-12-13T13:53:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4988" started-at="2020-12-13T13:53:48 IST" finished-at="2020-12-13T13:53:53 IST">
+      <class name="com.gradle.testng.TestNGDemo">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.gradle.testng.TestNGDemo@71bbf57e]" name="init" is-config="true" duration-ms="4192" started-at="2020-12-13T13:53:48 IST" finished-at="2020-12-13T13:53:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="webTagTest()[pri:0, instance:com.gradle.testng.TestNGDemo@71bbf57e]" name="webTagTest" duration-ms="64" started-at="2020-12-13T13:53:52 IST" finished-at="2020-12-13T13:53:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTagTest -->
+        <test-method status="PASS" signature="webTest()[pri:0, instance:com.gradle.testng.TestNGDemo@71bbf57e]" name="webTest" duration-ms="63" started-at="2020-12-13T13:53:52 IST" finished-at="2020-12-13T13:53:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTest -->
+        <test-method status="PASS" signature="webTitleTest()[pri:0, instance:com.gradle.testng.TestNGDemo@71bbf57e]" name="webTitleTest" duration-ms="6" started-at="2020-12-13T13:53:52 IST" finished-at="2020-12-13T13:53:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTitleTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.gradle.testng.TestNGDemo@71bbf57e]" name="terminate" is-config="true" duration-ms="616" started-at="2020-12-13T13:53:52 IST" finished-at="2020-12-13T13:53:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.gradle.testng.TestNGDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
